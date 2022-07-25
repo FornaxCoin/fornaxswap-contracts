@@ -1,0 +1,35 @@
+{
+   "fornax": {
+      "WETH": "0x83E87145Ac92037Eae9035988f5A8599228f150f",
+      "factory": "0xd4089F4057227462c8AF6129fC1a279e3f634AD6",
+      "router": "0xEBB007f503b2F3FCcA11F4f7068cbd78988c3557",
+      "multicall": "0x30668E172F003882a994213C1815BD2DfEFbC0D6",
+      "init_code_hash": "0x01429e880a7972ebfbba904a5bbe32a816e78273e4b38ffa6bdeaebce8adba7c",
+      "tokens": [
+         {
+            "chainId": 13937,
+            "address": "0x4aD89B9F116A24693DBae1836e0E0bC781E23b95",
+            "name": "fDAI",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+         },
+         {
+            "chainId": 13937,
+            "address": "0x79799F6133ea97993075AcFBD0552A117346589A",
+            "name": "fBAT",
+            "symbol": "BAT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+         },
+         {
+            "chainId": 13937,
+            "address": "0x97AF8490c63675292eb6C1B80eAa25D3f421Ea43",
+            "name": "fFAT",
+            "symbol": "FAT",
+            "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+         }
+      ]
+   }
+}
