@@ -8,7 +8,7 @@ import './interfaces/V1/IUniswapV1Exchange.sol';
 import './interfaces/IUniswapV2Router01.sol';
 import './interfaces/IERC20.sol';
 
-contract UniswapV2Migrator is IUniswapV2Migrator {
+contract FornaxswapV2Migrator is IUniswapV2Migrator {
     IUniswapV1Factory immutable factoryV1;
     IUniswapV2Router01 immutable router;
 
