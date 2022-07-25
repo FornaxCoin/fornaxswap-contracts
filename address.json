@@ -1,10 +1,10 @@
 {
    "fornax": {
-      "WFRX": "0x83E87145Ac92037Eae9035988f5A8599228f150f",
-      "factory": "0xd4089F4057227462c8AF6129fC1a279e3f634AD6",
-      "router": "0xEBB007f503b2F3FCcA11F4f7068cbd78988c3557",
-      "multicall": "0x30668E172F003882a994213C1815BD2DfEFbC0D6",
-      "init_code_hash": "0x01429e880a7972ebfbba904a5bbe32a816e78273e4b38ffa6bdeaebce8adba7c",
+      "WFRX": "0x383CaD2b1a79fCaA3474699c1F81721d26C24fc9",
+      "factory": "0x4B3Dc80342b90d0F5A515F1c23f3dB101632E92C",
+      "router": "0xd215B4D401b08774FAc9F4e331CfB555da882e11",
+      "multicall": "0x28E088d7347754f6dada54A6b42FFf4E6F181949",
+      "init_code_hash": "0x6e7e306ebc685314e3e8c1efd09a0ad296eb5ff61a54461f962c9b3e88378601",
       "tokens": [
          {
             "chainId": 13937,
