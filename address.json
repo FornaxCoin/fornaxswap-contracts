@@ -7,7 +7,7 @@
       "init_code_hash": "0x6e7e306ebc685314e3e8c1efd09a0ad296eb5ff61a54461f962c9b3e88378601",
       "tokens": [
          {
-            "chainId": 13937,
+            "chainId": 13936,
             "address": "0x4aD89B9F116A24693DBae1836e0E0bC781E23b95",
             "name": "fDAI",
             "symbol": "DAI",
@@ -15,7 +15,7 @@
             "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
          },
          {
-            "chainId": 13937,
+            "chainId": 13936,
             "address": "0x79799F6133ea97993075AcFBD0552A117346589A",
             "name": "fBAT",
             "symbol": "BAT",
@@ -23,7 +23,7 @@
             "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
          },
          {
-            "chainId": 13937,
+            "chainId": 13936,
             "address": "0x97AF8490c63675292eb6C1B80eAa25D3f421Ea43",
             "name": "fFAT",
             "symbol": "FAT",

@@ -29,10 +29,10 @@ module.exports = {
       //    chainId: 1281,
       // },
       fornax: {
-         url: 'https://testnetv1.watchfornax.com/rpc',
+         url: 'https://node.watchfornax.com/rpc',
          accounts: [privateKeyDev],
-         network_id: '13937',
-         chainId: 13937,
+         network_id: '13936',
+         chainId: 13936,
       },
    },
    solidity: {
@@ -48,6 +48,15 @@ module.exports = {
          },
          {
             version: '0.6.6',
+            settings: {
+               optimizer: {
+                  enabled: true,
+                  runs: 200,
+               },
+            },
+         },
+         {
+            version: '0.4.24',
             settings: {
                optimizer: {
                   enabled: true,

@@ -21,9 +21,10 @@ library FornaxswapV2Library {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'6e7e306ebc685314e3e8c1efd09a0ad296eb5ff61a54461f962c9b3e88378601' // init code hash
+                hex'26fdb620c397319a79d19307d195391b71ca907e8d5c109d1d2d838e00b26244' // init code hash
             ))));
     }
+    // fdn k
 
     // fetches and sorts the reserves for a pair
     function getReserves(address factory, address tokenA, address tokenB) internal view returns (uint reserveA, uint reserveB) {

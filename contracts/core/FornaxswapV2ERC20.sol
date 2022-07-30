@@ -6,8 +6,8 @@ import './libraries/SafeMath.sol';
 contract FornaxswapV2ERC20 is IUniswapV2ERC20 {
     using SafeMath for uint;
 
-    string public constant name = 'FornaxswapV2 V2';
-    string public constant symbol = 'FRX-V2';
+    string public constant name = 'Fornaxswap';
+    string public constant symbol = 'FRX-LP';
     uint8 public constant decimals = 18;
     uint  public totalSupply;
     mapping(address => uint) public balanceOf;
